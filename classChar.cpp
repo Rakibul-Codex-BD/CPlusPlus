@@ -10,6 +10,9 @@ int main()
     char company[] = "Coding Me";
     cout << company << endl;
 
+    char intern_name[] = {'x', 'y', 'z', '\0'};
+    cout << intern_name << endl;
+
     char greeting[100];
 
     // cin >> greeting;
